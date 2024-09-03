@@ -23,6 +23,8 @@ dotnet tool install --global dotnet-ef --version 8.*
  dotnet restore
  dotnet ef database update
  dotnet run
+
+Porta do servidor: http://localhost:5287
 ```
 Desenvolvido um aplicativo para controle de estacionamento onde o usuário poderá registrar a entrada e saída dos veículos. 
 
