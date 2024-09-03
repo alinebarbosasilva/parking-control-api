@@ -16,7 +16,7 @@ dotnet tool install --global dotnet-ef --version 8.*
 
 ```
 
-# Instalação:
+# Instalação
 ```sh
  git clone https://github.com/alinebarbosasilva/parking-control-api.git
  cd parking-control-api
