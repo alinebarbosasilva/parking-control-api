@@ -5,6 +5,17 @@ https://github.com/user-attachments/assets/f2d17cf7-ebf3-48bb-a682-57fa8da794f7
 
 Tecnologias utilizadas no desenvolvimento da API: C# - dotnet, banco de dados SQLite usando ORM Entity Framework.
 
+# Requisitos mínimos
+```sh
+## Instalar .NET 8.0 SDK
+Baixe através do link: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.401-windows-x64-installer 
+
+## Instalar Entity Framework
+Instale através deste comando
+dotnet tool install --global dotnet-ef --version 8.*
+
+```
+
 Para executar a aplicação:
 ```sh
  git clone https://github.com/alinebarbosasilva/parking-control-api.git
